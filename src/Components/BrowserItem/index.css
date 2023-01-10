@@ -1,0 +1,33 @@
+.container {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 30px;
+}
+
+.browser-item {
+  display: flex;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+}
+
+.time {
+  margin: 10px;
+}
+
+.logo {
+  margin-left: 20px;
+}
+
+.title {
+  margin: 10px 15px;
+}
+
+.title-url {
+  color: #475569;
+  margin: 10px 15px;
+}
